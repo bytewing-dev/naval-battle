@@ -1,5 +1,4 @@
 import { gameOn } from './lib'; 
-import Ship from './Ship'; 
 
 const readline = require('readline-sync'); 
 const goodExec = process.argv[2];
